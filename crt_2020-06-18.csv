@@ -1,0 +1,12 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._current_page_name,participant.time_started,participant.visited,participant.mturk_worker_id,participant.mturk_assignment_id,participant.payoff,player.id_in_group,player.answer1,player.answer2,player.answer3,player.num_correct,player.payoff,group.id_in_subsession,subsession.round_number,session.code,session.label,session.experimenter_name,session.mturk_HITId,session.mturk_HITGroupId,session.comment,session.is_demo
+1,m4ksn66j,MON_2,0,226,225,crt,Results,2020-06-18 00:41:59.771287+00:00,1,,,1308,1,13,3,4,0,0,1,1,wmzmlt9o,,,,,,0
+2,rsb8s5g6,MON_3,0,226,225,crt,Results,2020-06-18 00:42:28.262337+00:00,1,,,1092,2,26,2,9,0,0,1,1,wmzmlt9o,,,,,,0
+3,blid53o3,MON_1,0,226,225,crt,Results,2020-06-18 00:42:33.846804+00:00,1,,,950,3,0,2,9,0,0,1,1,wmzmlt9o,,,,,,0
+4,8ubmccvb,MON_4,0,226,225,crt,Results,2020-06-18 00:42:36.836780+00:00,1,,,1418,4,25,3,6,0,0,1,1,wmzmlt9o,,,,,,0
+5,a9o19h6l,MON_5,0,226,225,crt,Results,2020-06-18 00:42:42.783990+00:00,1,,,1062,5,26,1,5,0,0,1,1,wmzmlt9o,,,,,,0
+6,6ljk0tyt,MON_6,0,226,225,crt,Results,2020-06-18 00:42:50.066881+00:00,1,,,986,6,25,3,4,0,0,1,1,wmzmlt9o,,,,,,0
+7,g5tmpa0t,MON_7,0,226,225,crt,Results,2020-06-18 00:42:53.019032+00:00,1,,,1184,7,25,3,4,0,0,1,1,wmzmlt9o,,,,,,0
+8,uoxu3y6c,MON_8,0,226,225,crt,Results,2020-06-18 00:42:58.911340+00:00,1,,,976,8,25,3,4,0,0,1,1,wmzmlt9o,,,,,,0
+9,97zb35h8,MON_9,0,226,225,crt,Results,2020-06-18 00:43:09.889927+00:00,1,,,1210,9,25,3,4,0,0,1,1,wmzmlt9o,,,,,,0
+10,cozpbhke,MON_10,0,226,225,crt,Results,2020-06-18 00:43:19.440493+00:00,1,,,1214,10,25,3,4,0,0,1,1,wmzmlt9o,,,,,,0
+11,j05pzbks,MON_11,0,226,225,crt,Results,2020-06-18 00:43:39.815799+00:00,1,,,1129,11,25,3,4,0,0,1,1,wmzmlt9o,,,,,,0

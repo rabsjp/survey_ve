@@ -1,0 +1,44 @@
+{% extends "global/Page.html" %}
+{% load otree %}
+
+{% block title %}
+    Answer the following questions
+{% endblock %}
+
+{% block content %}
+
+    {% formfield player.submitted_answer_1 label=player.question_1 %}
+
+    {% formfield player.submitted_answer_2 label=player.question_2 %}
+
+    {% formfield player.submitted_answer_3 label=player.question_3 %}
+
+    {% formfield player.submitted_answer_4 label=player.question_4 %}
+
+    {% formfield player.submitted_answer_5 label=player.question_5 %}
+
+    {% formfield player.submitted_answer_6 label=player.question_6 %}
+
+    {% formfield player.submitted_answer_pais_1 label=player.question_pais_1 %}
+
+    {% formfield player.submitted_answer_pais_2 label=player.question_pais_2 %}
+
+    {% formfield player.submitted_answer_macho_1 label=player.macho_1 %}
+
+    {% formfield player.submitted_answer_macho_2 label=player.macho_2 %}
+
+    {% formfield player.submitted_answer_macho_3 label=player.macho_3 %}
+
+    {% formfield player.submitted_answer_macho_4 label=player.macho_4 %}
+
+    {% formfield player.submitted_answer_macho_5 label=player.macho_5 %}
+
+
+
+
+
+
+
+    {% next_button %}
+
+{% endblock %}
