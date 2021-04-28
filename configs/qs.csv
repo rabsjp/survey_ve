@@ -1,6 +1,6 @@
 id,question,choice1,choice2,choice3,choice4,choice5,choice6,choice7,choice8,choice9
 1,How many people do you recognize in this experiment?,1,2,3,4, 5 or  more, , , ,
-2,How many people do you know by name?,1,2,3,4, More than 7, , , ,
+2,How many people do you know by name?,1,2,3,4, 5 or more , , , ,
 3, Were the instructions clear? Please rank your answer from 1 (not clear at all) to 5 (very clear), 1,2,3,4,5, , , ,
 4, Please select your gender, Man,	Woman,	Non-binary/gender diverse,	My gender is not listed, I prefer no to say, , , ,
 5, How you rate your political views from 1 (very conservative) to 5 (very liberal)?, 1,2,3,4,5, , , ,
