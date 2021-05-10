@@ -35,7 +35,7 @@ class Subsession(BaseSubsession):
     def creating_session(self):
         if self.round_number == 1:
             #self.session.vars['questions'] = Constants.questions.copy()
-            self.session.vars['questions'] = parse_config(self.session.config['config_file']).copy()
+            self.session.vars['questions'] = parse_config(self.session.config['config_file_survey']).copy()
             self.session.vars['countries'] = Constants.countries.copy()
             for p in self.get_players():
                 p.question_1 = self.session.vars['questions'][0]['question']
@@ -95,6 +95,7 @@ class Player(BasePlayer):
             qd['choice3'],
             qd['choice4'],
             qd['choice5'],
+            qd['choice6'],
         ]
 
     def submitted_answer_2_choices(self):
@@ -105,6 +106,7 @@ class Player(BasePlayer):
             qd['choice3'],
             qd['choice4'],
             qd['choice5'],
+            qd['choice6'],
         ]
 
     def submitted_answer_3_choices(self):

@@ -1,14 +1,14 @@
 id,question,choice1,choice2,choice3,choice4,choice5,choice6,choice7,choice8,choice9
-1,How many people do you recognize in this experiment?,1,2,3,4, 5 or  more, , , ,
-2,How many people do you know by name?,1,2,3,4, 5 or more , , , ,
+1,How many people do you recognize in this experiment?,0,1,2,3,4,5 or more , , ,
+2,How many people do you know by name?,0,1,2,3,4, 5 or more, , ,
 3, Were the instructions clear? Please rank your answer from 1 (not clear at all) to 5 (very clear), 1,2,3,4,5, , , ,
 4, Please select your gender, Man,	Woman,	Non-binary/gender diverse,	My gender is not listed, I prefer no to say, , , ,
 5, How you rate your political views from 1 (very conservative) to 5 (very liberal)?, 1,2,3,4,5, , , ,
-6, Please select the statement(s)  that best capture what motivated your decisions in the game: I wanted to earn as much as I could,	I thought no one else in my group would invest,	I thought someone else in my group would invest,	I would prefer to be the person who invests,	I didn't want to earn less than my groupmates, 	I enjoyed helping my groupmates,	I took my turn after another person invested in the round before, I felt I was the person who ought to invest
+6, Please select the statement  that best captures what motivated your decisions in the game, I wanted to earn as much as I could,	I thought no one else in my group would invest,	I thought someone else in my group would invest,	I would prefer to be the person who invests,	I didn't want to earn less than my groupmates, 	I enjoyed helping my groupmates,	I took my turn after another person invested in the round before, I felt I was the person who ought to invest
 7, In what country did you spent the majority of your first 18 years?, , ,  , , , ,  , ,
 8, Where was your mother born?, , ,  , , , ,  , ,
-9, Please select an option. Men want their children to have better lives than themselves, Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
-10, Please select an option. Men should respect their elders, Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
-11, Please select an option. Men must exhibit fairness in all situations., Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
-12, Please select an option. A woman is expected to be loyal to her husband., Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
-13, Please select an option. Men must display good manners in public. , Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
+9, Please select an option: Men want their children to have better lives than themselves., Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
+10, Please select an option: Men should respect their elders., Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
+11, Please select an option: Men must exhibit fairness in all situations., Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
+12, Please select an option: A woman is expected to be loyal to her husband., Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
+13, Please select an option: Men must display good manners in public. , Strongly Disagree,	Disagree,	Disagree Somewhat,	Uncertain,	Agree Somewhat,	Agree	Strongly, Agree,	Do Not Know,	Refuse to Answer
